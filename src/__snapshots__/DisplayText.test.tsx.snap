@@ -27,9 +27,6 @@ exports[`Test diplayText matches snapshot 1`] = `
           data-testid="final-msg"
         />
       </div>
-      <div>
-        this is just a test entry
-      </div>
     </form>
   </div>
 </body>
